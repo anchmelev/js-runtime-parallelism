@@ -1,0 +1,11 @@
+{
+  "name": "bun-app",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "server.js",
+  "scripts": {
+    "start": "bun run server.js",
+    "cpu": "bun run cpu.js",
+    "mix": "bun run mix.js"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "js-parallel-comparison",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "license": "MIT",
+  "author": "Chmelev Andrei <an.chmelev@gmail.com>",
+  "devDependencies": {
+    "lerna": "6.6.2"
+  }
+}

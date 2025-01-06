@@ -1,0 +1,13 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "cpu": "node cpu.js",
+    "mix": "node mix.js"
+  },
+  "dependencies": {
+    "express": "4.21.2"
+  }
+}
